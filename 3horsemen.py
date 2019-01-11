@@ -1,0 +1,10 @@
+print("You wake up cold and shivering, looking up to the sky you see full\ndark clouds and overcast skies.")
+print(
+    "The rain starts to fall, and you run to cover\nYou trip! and you catch yourself on the trunk of a tree in front of you")
+print("Before you you carvings in the tree bark.")
+print()
+name = input("Enter your name:")
+print("Hello " + name)
+print()
+study = input("Choose your Study:")
+print("Hello," + name +" You chose the study of " + study )
